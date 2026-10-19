@@ -1,31 +1,31 @@
 {
   "iconDefinitions": {
     "_file": {
-      "iconPath": "icons/bow.png"
+      "iconPath": "icons/moon.png"
     },
     "_css": {
-      "iconPath": "icons/wand.png"
+      "iconPath": "icons/jellyfish.png"
     },
     "_html": {
       "iconPath": "icons/paw.png"
     },
     "_javascript": {
-      "iconPath": "icons/catblack.png"
+      "iconPath": "icons/catblue.png"
     },
     "_javascript_test": {
-      "iconPath": "icons/catblack.png"
+      "iconPath": "icons/catblue.png"
     },
     "_typescript": {
-      "iconPath": "icons/catwhite.png"
+      "iconPath": "icons/catpink.png"
     },
     "_json": {
-      "iconPath": "icons/heart.png"
+      "iconPath": "icons/tail.png"
     },
     "_lock": {
       "iconPath": "icons/candy.png"
     },
     "_eslint": {
-      "iconPath": "icons/sakura.png"
+      "iconPath": "icons/dolphin.png"
     },
     "_prettier": {
       "iconPath": "icons/sakura.png"
@@ -37,16 +37,16 @@
       "iconPath": "icons/planet.png"
     },
     "_image": {
-      "iconPath": "icons/bunnypink.png"
+      "iconPath": "icons/duck.png"
     },
     "_markdown": {
-      "iconPath": "icons/spellbook.png"
+      "iconPath": "icons/planet.png"
     },
     "_babel": {
-      "iconPath": "icons/spellbook.png"
+      "iconPath": "icons/planet.png"
     },
     "_license": {
-      "iconPath": "icons/spellbook.png"
+      "iconPath": "icons/planet.png"
     },
     "_package": {
       "iconPath": "icons/star.png"
@@ -55,7 +55,7 @@
       "iconPath": "icons/sparkle.png"
     },
     "_jest": {
-      "iconPath": "icons/catblack.png"
+      "iconPath": "icons/catblue.png"
     },
     "_apollo": {
       "iconPath": "icons/sparkle.png"
@@ -67,7 +67,7 @@
       "iconPath": "icons/onigiri.png"
     },
     "_solidity": {
-      "iconPath": "icons/catwhite.png"
+      "iconPath": "icons/catpink.png"
     },
     "_yml": {
       "iconPath": "icons/sparkle.png"
@@ -77,6 +77,24 @@
     },
     "_config": {
       "iconPath": "icons/moon.png"
+    },
+    "_proto": {
+      "iconPath": "icons/sparkle.png"
+    },
+    "_thrift": {
+      "iconPath": "icons/paw.png"
+    },
+    "_visualstudiocode": {
+      "iconPath": "icons/dolphin.png"
+    },
+    "_tslint": {
+      "iconPath": "icons/moon.png"
+    },
+    "_flow": {
+      "iconPath": "icons/planet.png"
+    },
+    "_fusion": {
+      "iconPath": "icons/candy.png"
     }
   },
   "file": "_file",
@@ -98,7 +116,7 @@
     "node.js": "_javascript_test",
     "browser.js": "_javascript_test",
     "md": "_markdown",
-    "grapqhl": "_graphql",
+    "graphql": "_graphql",
     "proto": "_proto",
     "thrift": "_thrift",
     "git": "_git",
