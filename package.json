@@ -42,7 +42,15 @@
         "star",
         "sakura",
         "planet",
-        "space"
+        "space",
+        "moon",
+        "jellyfish",
+        "paw",
+        "tail",
+        "candy",
+        "dolphin",
+        "duck",
+        "sparkle"
     ],
     "license": "MIT",
     "dependencies": {

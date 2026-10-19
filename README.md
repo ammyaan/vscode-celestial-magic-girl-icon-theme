@@ -1,5 +1,5 @@
 # VSCode Celestial Magic Girl Icon Theme
-Cats, bunnies, magic wands, spellbooks, stars, and more!
+Cats, Jellyfish, Dolphin, Moon, Stars, and more!
 
 Currently for common front-end web development file types
 
