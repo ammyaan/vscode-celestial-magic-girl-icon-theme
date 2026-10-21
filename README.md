@@ -5,7 +5,7 @@ Currently for common front-end web development file types
 
 ### Download and use at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-celestial-magic-girl-icon-theme
 
-<img width="175" alt="Screen Shot 2022-08-24 at 8 32 46 PM" src="https://user-images.githubusercontent.com/7905522/186572291-0d9f5b28-98ce-4cf5-a64b-76a1d74e5d30.png">
+<img width="175" alt="Sample Screenshot" src="SampleScreenshot.png">
 
 
 ## Development
